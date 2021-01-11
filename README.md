@@ -5,4 +5,4 @@ Create a web application with responsive web design and completing the challenge
 ## Technologies
 - HTML5
 - CSS3
-- SASS# FourCardFeatureSection
+- SASS
